@@ -1,0 +1,24 @@
+Wooden Sword,10
+Wooden Shield,10
+
+Sword
+Shield
+Bow
+Cross Bow
+Daggers
+Wand
+Staff
+Tomb
+
+Chest Plate
+Robe
+Helmet
+Hat
+Leggings
+Boots
+Shoes
+
+HP Pot
+HP-UP Pot
+Mana Pot
+Mana-UP Pot

@@ -1,0 +1,6 @@
+'Health Points'
+'Mana Points'
+'Attack Stat'
+'Defense Stat'
+
+- - - - - - - - - -| This is the order of the stats on the 'playerStatSheet' |- - - - - - - - - - - - - - - - - - - - -
